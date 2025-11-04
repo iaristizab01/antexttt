@@ -1,6 +1,8 @@
-streamlit==1.38.0
-scikit-learn==1.5.2
-pandas==2.2.2
-nltk==3.8.1
-
-
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+opencv-python-headless
+pytesseract
+Pillow
